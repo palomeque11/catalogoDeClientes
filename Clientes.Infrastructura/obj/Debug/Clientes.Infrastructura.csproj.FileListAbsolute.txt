@@ -1,0 +1,12 @@
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\obj\Debug\Clientes.Infrastructura.csprojAssemblyReference.cache
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\obj\Debug\Clientes.Infrastructura.csproj.CoreCompileInputs.cache
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\Clientes.Infrastructura.dll.config
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\Clientes.Infrastructura.dll
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\Clientes.Infrastructura.pdb
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\EntityFramework.dll
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\EntityFramework.xml
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\obj\Debug\Clientes.Infrastructura.csproj.CopyComplete
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\obj\Debug\Clientes.Infrastructura.dll
+C:\Users\omar\source\repos\Solution1\Clientes.Infrastructura\obj\Debug\Clientes.Infrastructura.pdb

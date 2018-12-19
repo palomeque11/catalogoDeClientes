@@ -1,0 +1,46 @@
+﻿body {
+font-family: Trebuchet MS, sans-serif;
+font-size: 11pt;
+color: black;
+}
+
+.textoGrande {
+    font-size: 13pt !important;
+}
+
+.textoNegrita {
+    font-weight: bold !important;
+}
+
+
+.alerta {
+    text-align: center;
+    font-size: 9pt;
+    font-weight: bold;
+    color: red;
+}
+.resultado {
+    font-size: 12pt !important;
+    color: black;
+text-align: center;
+
+}
+
+.linkPeque {
+   text-decoration: none;
+   color:black;
+   cursor:pointer;
+   text-decoration:underline;
+}
+
+.capaPrincipal {
+    width: 1010px;
+    position:absolute;
+    left: 50%;
+    margin-left:-505px;
+    top:20px;
+}
+
+.tablaPrincipal {
+    width: 100%;
+}
